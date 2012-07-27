@@ -34,7 +34,7 @@ nav#menu ul li:hover{ background: gray;}
 
 #slider { box-shadow: 0 14px 4px -9px #c6e0ff; }
 
-#content { min-height: 550px; padding: 20px; background: url("../images/blueTexture.jpg"); }
+#content { min-height: 550px; padding: 20px; background: white url("../images/texture5.png"); }
 #content #items {height: 415px;}
 #content #items .item{ float: left; width: 300px;box-shadow: 0 5px 4px 1px black; }
 
