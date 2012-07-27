@@ -8,10 +8,10 @@ var sliderMarkup =
                 '<ul>' +
                     '<li>' +
                         '<div class="thumb">' +
-                            '<img src="lib/jquery-list-slider/images/thumbs/hk.jpg" alt=""/>' +
-                            '<p><span class="cap-title">Hong Kong</span><br/>Lorem ipsum per augue platonem gubergren at, affert signiferumque in.</p>' +
+                            '<img src="images/umut/thumbs/1.jpg" alt=""/>' +
+                            '<p><span class="cap-title">Umut Doğa</span><br/>UMUT DOĞA Matbaacılık ve Tekstil Aksesuarları Ltd.Şti</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/hk.jpg"></a>' +
+                        '<a href="images/umut/1.jpg"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:233px; left:0px; width:600px; height:auto;">' +
                             '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -21,10 +21,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                            '<img src="http://www.omerbozalan.com" alt=""/>' +
-                            '<p><span class="cap-title">Bridge</span><br/>Lorem ipsum sonet nemore ancillae ne qui.</p>' +
+                            '<img src="images/umut/thumbs/2.jpg" alt=""/>' +
+                            '<p><span class="cap-title">Umut Doğa</span><br/>UMUT DOĞA Matbaacılık ve Tekstil Aksesuarları Ltd.Şti</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/bridge.jpg"></a>' +
+                        '<a href="images/umut/1.jpg"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:198px; left:270px; width:325px; height:auto;">' +
                             '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -34,10 +34,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                            '<img src="http://www.omerbozalan.com" alt=""/>' +
+                            '<img src="images/umut/thumbs/3.jpg" alt=""/>' +
                             '<p><span class="cap-title">Osaka</span><br/>Lorem ipsum ne nam possit similique moderatius, ei.</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/osaka.jpg"></a>' +
+                        '<a href="images/umut/2.jpg"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:233px; left:0px; width:600px; height:auto;">' +
                             '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -47,10 +47,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                            '<img src="lib/jquery-list-slider/images/thumbs/redtail.jpg" alt=""/>' +
+                            '<img src="images/umut/thumbs/4.jpg" alt=""/>' +
                             '<p><span class="cap-title">Catfish</span><br/>Lorem ipsum offendit invenire expetenda vim ei.</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/redtail.jpg"></a>' +
+                        '<a href="images/umut/3.jpg"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:5px; left:5px; width:325px; height:auto;">' +
                             '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -60,10 +60,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                        '<img src="lib/jquery-list-slider/images/thumbs/jfish.jpg" alt=""/>' +
+                        '<img src="images/umut/thumbs/5.jpg" alt=""/>' +
                         '<p><span class="cap-title">Jellyfish</span><br/>Lorem ipsum per augue platonem gubergren at, affert signiferumque in.</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/jfish.jpg"></a>' +
+                        '<a href="images/umut/4.jpg"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:5px; left:5px; width:325px; height:auto;">' +
                         '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -73,10 +73,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                            '<img src="lib/jquery-list-slider/images/thumbs/sf.jpg" alt=""/>' +
+                            '<img src="images/umut/thumbs/6.jpg" alt=""/>' +
                             '<p><span class="cap-title">San Francisco</span><br/>Lorem ipsum sonet nemore ancillae ne qui.</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/sf.jpg"></a>' +
+                        '<a href="images/umut/5.jpg"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:233px; left:0px; width:600px; height:auto;">' +
                             '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -86,10 +86,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                        '<img src="lib/jquery-list-slider/images/thumbs/room.jpg" alt=""/>' +
+                        '<img src="images/umut/thumbs/7.jpg" alt=""/>' +
                         '<p><span class="cap-title">Living room</span><br/>Lorem ipsum sed cu malis.</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/room.jpg" title="building"></a>' +
+                        '<a href="images/umut/6.jpg" title="building"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:5px; left:5px; width:325px; height:auto;">' +
                         '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -99,10 +99,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                        '<img src="lib/jquery-list-slider/images/thumbs/train.jpg" alt=""/>' +
+                        '<img src="images/umut/thumbs/8.jpg" alt=""/>' +
                         '<p><span class="cap-title">Bullet train</span><br/>Lorem ipsum offendit invenire expetenda vim ei.</p>' +
                         '</div>' +
-                        '<a href="images/lib/jquery-list-slider/train.jpg" title=""></a>' +
+                        '<a href="images/umut/7.jpg" title=""></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:198px; left:270px; width:325px; height:auto;">' +
                         '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -112,10 +112,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                        '<img src="lib/jquery-list-slider/images/thumbs/triworks_abstract17.jpg" alt=""/>' +
+                        '<img src="images/umut/thumbs/1.jpg" alt=""/>' +
                         '<p><span class="cap-title">3D abstract art</span><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/triworks_abstract17.jpg"></a>' +
+                        '<a href="images/umut/8.jpg"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:86px; left:5px; width:350px; height:auto;">' +
                         '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -126,10 +126,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                        '<img src="lib/jquery-list-slider/images/thumbs/triworks_abstract26.jpg" alt=""/>' +
+                        '<img src="images/umut/thumbs/2.jpg" alt=""/>' +
                         '<p><span class="cap-title">3D abstract art</span><br/>Lorem ipsum sonet nemore ancillae ne qui.</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/triworks_abstract26.jpg"></a>' +
+                        '<a href="images/umut/9.jpg"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:86px; left:5px; width:350px; height:auto;">' +
                         '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -140,10 +140,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                        '<img src="lib/jquery-list-slider/images/thumbs/madness_arch2.jpg" alt=""/>' +
+                        '<img src="images/umut/thumbs/3.jpg" alt=""/>' +
                         '<p><span class="cap-title">Architecture</span><br/>Lorem ipsum sonet nemore ancillae ne qui.</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/madness_arch2.jpg"></a>' +
+                        '<a href="images/umut/1.jpg"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:5px; left:5px; width:325px; height:auto;">' +
                         '<span class="p-title">jQuery List Rotator</span><br/>' +
@@ -153,10 +153,10 @@ var sliderMarkup =
                     '</li>' +
                     '<li>' +
                         '<div class="thumb">' +
-                        '<img src="lib/jquery-list-slider/images/thumbs/highway.jpg" alt=""/>' +
+                        '<img src="images/umut/thumbs/4.jpg" alt=""/>' +
                         '<p><span class="cap-title">Highway</span><br/>Lorem ipsum sonet nemore ancillae ne qui.</p>' +
                         '</div>' +
-                        '<a href="lib/jquery-list-slider/images/highway.jpg"></a>' +
+                        '<a href="images/umut/2.jpg"></a>' +
                         '<a href="http://www.omerbozalan.com" target="_blank"></a>' +
                         '<div style="top:5px; left:5px; width:325px; height:auto;">' +
                         '<span class="p-title">jQuery List Rotator</span><br/>' +
