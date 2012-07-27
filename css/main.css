@@ -37,8 +37,25 @@ nav#menu ul li:hover{ background: gray;}
 #content { min-height: 550px; padding: 20px; background: white url("../images/texture5.png"); }
 #content.chooseUs { background: white url("../images/lightBlack.jpg"); }
 #content.chooseUs #trophyRoom { height: 500px; margin: 0 auto; width: auto;}
-#content.chooseUs #trophyRoom .trophy {  margin: 40px; height: 100px; width: 100px; background: url('../images/logoSpriteBW.png'); float:left; }
-#content.chooseUs #trophyRoom .trophy:hover { background: url('../images/logoSprite.png') }
+#content.chooseUs #trophyRoom .trophy {  margin: 40px; height: 100px; width: 100px; background: url('../images/logoSpriteBW.png'); float:left;
+    -webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease;
+
+    /*Transition*/ -webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease;
+    /*Reflection*/ -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+
+}
+
+#content.chooseUs #trophyRoom .trophy:hover {
+    background: url('../images/logoSprite.png');
+    -webkit-transform: rotate(-7deg);
+    -moz-transform: rotate(-7deg);
+    -o-transform: rotate(-7deg);
+    opacity: 1;   /*Reflection*/
+    -webkit-box-reflect: below 0px
+    -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+
+
+}
 #content.chooseUs #trophyRoom .trophy.one { background-position: 0px 0px; }
 #content.chooseUs #trophyRoom .trophy.two { background-position: -93px 0px; }
 #content.chooseUs #trophyRoom .trophy.three { background-position: -190px 0px; }
