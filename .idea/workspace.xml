@@ -25,16 +25,34 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="472" selection-start="6851" selection-end="6851" vertical-scroll-proportion="-14.769231">
+            <state line="136" column="472" selection-start="6851" selection-end="6851" vertical-scroll-proportion="-81.46154">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="preview.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/preview.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="30" selection-start="296" selection-end="300" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.list-rotator.min.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/jquery.list-rotator.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="108" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="86" selection-start="1974" selection-end="1974" vertical-scroll-proportion="0.2838828">
+            <state line="36" column="36" selection-start="1924" selection-end="1924" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -59,12 +77,12 @@
         <option value="$PROJECT_DIR$/css/slider.css" />
         <option value="$PROJECT_DIR$/lib/jquery-list-slider/index.html" />
         <option value="$PROJECT_DIR$/css/preview.css" />
-        <option value="$PROJECT_DIR$/lib/preview.js" />
         <option value="$PROJECT_DIR$/data/sliderData.js" />
         <option value="$PROJECT_DIR$/lib/ParallaxContentSlider/index.html" />
         <option value="$PROJECT_DIR$/lib/ParallaxContentSlider/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/lib/preview.js" />
       </list>
     </option>
   </component>
@@ -216,7 +234,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -326,30 +344,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/extend.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="435" selection-end="435" vertical-scroll-proportion="0.6690519">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.list-rotator.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/preview.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="1" selection-start="23" selection-end="23" vertical-scroll-proportion="0.09123435">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/preview.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="35" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -382,16 +379,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="472" selection-start="6851" selection-end="6851" vertical-scroll-proportion="-14.769231">
+        <state line="36" column="36" selection-start="1924" selection-end="1924" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="86" selection-start="1974" selection-end="1974" vertical-scroll-proportion="0.2838828">
+        <state line="136" column="472" selection-start="6851" selection-end="6851" vertical-scroll-proportion="-81.46154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/preview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="30" selection-start="296" selection-end="300" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery.list-rotator.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="108" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
