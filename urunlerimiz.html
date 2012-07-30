@@ -16,6 +16,9 @@
 
     <!-- Libraries -->
     <script src="lib/jquery-1.7.2.min.js"></script>
+    <script src="lib/jquery.ui.core.js"></script>
+    <script src="lib/jquery.ui.widget.js"></script>
+    <script src="lib/jquery.ui.tabs.js"></script>
 
     <!--[if IE]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -25,6 +28,15 @@
     <link rel="stylesheet" type="text/css" href="css/reset.css" />
     <link rel="stylesheet" type="text/css" href="css/main.css" />
     <link rel="stylesheet" type="text/css" href="css/menu.css" />
+    <link rel="stylesheet" href="css/jqueryUICss/jquery.ui.all.css">
+    <link rel="stylesheet" href="css/tabs.css">
+
+    <script>
+        $(function() {
+            $( "#tabs" ).tabs({ selected: 0, fx : { opacity: 'toggle',width: 'toggle', duration: '500'} });
+        });
+    </script>
+
 </head>
 <body>
 <div id="wrapper">
@@ -64,6 +76,106 @@
             <li><a href='#'><span>İletişim</span></a></li>
             <li><a href='#'><span>Sertifikalarımız</span></a></li>
         </ul>
+    </div>
+    <div id="content" class="products">
+        <div id="tabs">
+            <ul>
+                <li><a href="#tabs-1">Kurumsal Ürünler</a></li>
+                <li><a href="#tabs-2">Tanıtım Ürünleri</a></li>
+                <li><a href="#tabs-3">Plastik Kartlar</a></li>
+                <li><a href="#tabs-4">Tanıtım Ürünleri</a></li>
+            </ul>
+            <div id="tabs-1">
+                <div id="tab1">
+                    <div class="items">
+                        <div class="tabItem">
+                            <div class="itemImg"><img height="200" width="150" src="images/kartvizit.jpg" alt="Tab Item Image"/></div>
+                            <div class="itemName">Toplu Üretim Kartvizit</div>
+                        </div>
+                        <div class="tabItem">
+                            <div class="itemImg"><img height="200" width="150" src="images/kartvizit.jpg" alt="Tab Item Image"/></div>
+                            <div class="itemName">Acil Kartvizit</div>
+                        </div>
+                        <div class="tabItem">
+                            <div class="itemImg"><img height="200" width="150" src="images/kartvizit.jpg" alt="Tab Item Image"/></div>
+                            <div class="itemName">Özel Kağıtlı Kartvizit</div>
+                        </div>
+                        <div class="tabItem">
+                            <div class="itemImg"><img height="200" width="150" src="images/antetli.gif" alt="Tab Item Image"/></div>
+                            <div class="itemName">Antetli Kağıt</div>
+                        </div>
+                        <div class="tabItem">
+                            <div class="itemImg"><img height="200" width="150" src="images/kartvizit.jpg" alt="Tab Item Image"/></div>
+                            <div class="itemName">Acil Kartvizit</div>
+                        </div>
+                        <div class="tabItem">
+                            <div class="itemImg"><img height="200" width="150" src="images/diplomat.jpg" alt="Tab Item Image"/></div>
+                            <div class="itemName">Diplomat Zarf</div>
+                        </div>
+                        <div class="tabItem">
+                            <div class="itemImg"><img height="200" width="150" src="images/cepli.jpg" alt="Tab Item Image"/></div>
+                            <div class="itemName">Cepli Dosya</div>
+                        </div>
+                        <div class="tabItem">
+                            <div class="itemImg"><img height="200" width="150" src="images/kase.jpg" alt="Tab Item Image"/></div>
+                            <div class="itemName">Kaşe</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tabs-2">
+                <div class="items">
+                    <div class="tabItem">
+                        <div class="itemImg"><img height="200" width="150" src="images/elilan.jpg" alt="Tab Item Image"/></div>
+                        <div class="itemName">El İlanı</div>
+                    </div>
+                    <div class="tabItem">
+                        <div class="itemImg"><img height="200" width="150" src="images/brosur.jpg" alt="Tab Item Image"/></div>
+                        <div class="itemName">Broşür</div>
+                    </div>
+                    <div class="tabItem">
+                        <div class="itemImg"><img height="200" width="150" src="images/katalog.jpg" alt="Tab Item Image"/></div>
+                        <div class="itemName">Katalog</div>
+                    </div>
+                    <div class="tabItem">
+                        <div class="itemImg"><img height="200" width="150" src="images/insert.jpg" alt="Tab Item Image"/></div>
+                        <div class="itemName">İnsert</div>
+                    </div>
+                </div>
+            </div>
+            <div id="tabs-3">
+                <div class="items">
+                    <div class="tabItem">
+                        <div class="itemImg"><img height="200" width="150" src="images/seffaf.jpg" alt="Tab Item Image"/></div>
+                        <div class="itemName">Şeffaf Kartvizit</div>
+                    </div>
+                    <div class="tabItem">
+                        <div class="itemImg"><img height="200" width="150" src="images/plastik-kartlar.gif" alt="Tab Item Image"/></div>
+                        <div class="itemName">Plastik Kartlar</div>
+                    </div>
+                </div>
+            </div>
+            <div id="tabs-4">
+                <div class="items">
+                    <div class="tabItem">
+                        <div class="itemImg"><img height="200" width="150" src="images/takvim.jpg" alt="Tab Item Image"/></div>
+                        <div class="itemName">Takvim</div>
+                    </div>
+                    <div class="tabItem">
+                        <div class="itemImg"><img height="200" width="150" src="images/magnet.jpg" alt="Tab Item Image"/></div>
+                        <div class="itemName">Magnet</div>
+                    </div>
+                    <div class="tabItem">
+                        <div class="itemImg"><img height="200" width="150" src="images/sticker.gif" alt="Tab Item Image"/></div>
+                        <div class="itemName">Sticker</div>
+                    </div>
+                    <div class="tabItem">
+                        <div class="itemImg"><img height="200" width="150" src="images/islak.jpg" alt="Tab Item Image"/></div>
+                        <div class="itemName">Islak Mendil</div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <div id="footer">
         <div class="companyLogo">
