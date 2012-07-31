@@ -43,10 +43,22 @@
     </script>
 
     <style>
-        #images h1 {
+        @font-face {
+            font-family: 'Tellural';
+            src: url('fonts/Baqa.otf');
+            src: url('fonts/Baqa.otf?#iefix') format('embedded-opentype'),
+            url('fonts/Baqa.otf') format('woff'),
+            url('fonts/Baqa.otf') format('truetype'),
+            url('fonts/Baqa.otf#CompleteinHimTRRegular') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        .gallery #images h1 {
             font-size: 30px; color: #0c7fb0; text-shadow: 1px 1px 1px white;
             border-bottom: 1px solid black;
             line-height: 32px; margin: 20px 0px;
+            font-family: 'Tellural';
         }
     </style>
 </head>
