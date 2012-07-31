@@ -29,62 +29,37 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="68" selection-start="1605" selection-end="1605" vertical-scroll-proportion="-15.423077">
+            <state line="47" column="34" selection-start="1706" selection-end="1706" vertical-scroll-proportion="-0.65384614">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urunlerimiz.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/urunlerimiz.html">
+      <file leaf-file-name="sliderData.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/sliderData.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="1609" selection-end="1609" vertical-scroll-proportion="0.47070706">
+            <state line="13" column="51" selection-start="672" selection-end="689" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vertical.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jqueryUI/development-bundle/demos/tabs/vertical.html">
+      <file leaf-file-name="galeri.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/galeri.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="51" selection-start="822" selection-end="822" vertical-scroll-proportion="-13.076923">
+            <state line="109" column="66" selection-start="5229" selection-end="5229" vertical-scroll-proportion="0.58536583">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tabs.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/tabs.css">
+      <file leaf-file-name="colorbox.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/colorbox/colorbox.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="335" column="66" selection-start="14470" selection-end="14470" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jqueryUI/development-bundle/demos/tabs/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="63" selection-end="63" vertical-scroll-proportion="5.8846154">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bizisecenler.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bizisecenler.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="4" selection-start="2812" selection-end="3593" vertical-scroll-proportion="-0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="75" selection-start="3141" selection-end="3141" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="61" column="1" selection-start="3626" selection-end="3626" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1343694430079" expanded="true" signature="3862:4092" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,22 +74,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/extend.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/node/index.js" />
-        <option value="$PROJECT_DIR$/css/menu.css" />
-        <option value="$PROJECT_DIR$/css/slider.css" />
-        <option value="$PROJECT_DIR$/lib/jquery-list-slider/index.html" />
         <option value="$PROJECT_DIR$/css/preview.css" />
         <option value="$PROJECT_DIR$/lib/ParallaxContentSlider/index.html" />
         <option value="$PROJECT_DIR$/lib/ParallaxContentSlider/css/style.css" />
-        <option value="$PROJECT_DIR$/bizisecenler.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/data/sliderData.js" />
         <option value="$PROJECT_DIR$/lib/preview.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/tabs.css" />
+        <option value="$PROJECT_DIR$/can.html" />
         <option value="$PROJECT_DIR$/urunlerimiz.html" />
+        <option value="$PROJECT_DIR$/bizisecenler.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/with-carousel.html" />
+        <option value="$PROJECT_DIR$/lib/jquery.pikachoose.js" />
+        <option value="$PROJECT_DIR$/css/galerySlider/left.css" />
+        <option value="$PROJECT_DIR$/css/colorbox/colorbox.css" />
+        <option value="$PROJECT_DIR$/galeri.html" />
       </list>
     </option>
   </component>
@@ -193,103 +168,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jqueryUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="umutdoga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="umutdoga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jqueryUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="development-bundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="umutdoga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="umutdoga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jqueryUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="development-bundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="umutdoga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="umutdoga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jqueryUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="development-bundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tabs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="umutdoga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="umutdoga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -313,20 +192,27 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\css\colorbox" />
       <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\css" />
       <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\lib" />
       <recent name="C:\Users\Memo\Documents\GitHub\umutdoga" />
-      <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\lib\ParallaxContentSlider\images" />
-      <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\lib\ParallaxContentSlider\css" />
+      <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\css\galerySlider" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\css\colorbox" />
+      <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\css\galerySlider" />
       <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\css\jqueryUICss" />
       <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\images" />
       <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\css" />
-      <recent name="C:\Users\Memo\Documents\GitHub\umutdoga\fonts" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method>
+        <option name="PhingTarget" enabled="false" />
+      </method>
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
@@ -365,22 +251,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2439394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24772727" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -441,112 +327,110 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/sliderData.js">
+    <entry file="file://$PROJECT_DIR$/css/galerySlider/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="28" selection-start="1449" selection-end="1449" vertical-scroll-proportion="0.031135531">
-          <folding />
-        </state>
+        <state line="13" column="32" selection-start="734" selection-end="734" vertical-scroll-proportion="0.4047619" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/preview.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="296" selection-end="296" vertical-scroll-proportion="0.060822897">
+        <state line="1" column="4" selection-start="5" selection-end="5" vertical-scroll-proportion="-3.135957" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery.pikachoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="126" selection-start="878" selection-end="878" vertical-scroll-proportion="0.032629557" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/galerySlider/left.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="139" selection-start="473" selection-end="473" vertical-scroll-proportion="0.31135532" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="34" selection-start="1706" selection-end="1706" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sliderData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="51" selection-start="672" selection-end="689" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/GalerySlider/js/jquery.transform-0.9.3.min_.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/GalerySlider/js/jquery.mousewheel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.74725276">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/GalerySlider/js/jquery.RotateImageMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery.colorbox-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/scrol/jquery.smoothDivScroll-1.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="24" selection-start="663" selection-end="663" vertical-scroll-proportion="0.093406595">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="75" selection-start="3141" selection-end="3141" vertical-scroll-proportion="0.0">
+        <state line="120" column="79" selection-start="6965" selection-end="6971" vertical-scroll-proportion="0.65384614">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bizisecenler.html">
+    <entry file="file://$PROJECT_DIR$/lib/GalerySlider/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="4" selection-start="2812" selection-end="3593" vertical-scroll-proportion="-0.65384614">
+        <state line="8" column="8" selection-start="388" selection-end="555" vertical-scroll-proportion="0.26153848">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.ui.tabs.js">
+    <entry file="file://$PROJECT_DIR$/lib/scrol/tkahn-Smooth-Div-Scroll-a3c651d/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="78" column="12" selection-start="2746" selection-end="2829" vertical-scroll-proportion="0.76547843">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/jqueryUICss/jquery.ui.tabs.css">
+    <entry file="file://$PROJECT_DIR$/css/colorbox/colorbox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="61" column="1" selection-start="3626" selection-end="3626" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1343694430079" expanded="true" signature="3862:4092" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/jqueryUICss/jquery.ui.base.css">
+    <entry file="file://$PROJECT_DIR$/galeri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/jqueryUICss/jquery.ui.theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/jqueryUICss/jquery.ui.all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jqueryUI/development-bundle/demos/tabs/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="63" selection-end="63" vertical-scroll-proportion="5.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/tabs.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="335" column="66" selection-start="14470" selection-end="14470" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/brosur.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="68" selection-start="1605" selection-end="1605" vertical-scroll-proportion="-15.423077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jqueryUI/development-bundle/ui/jquery-ui-1.8.22.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="895" column="38" selection-start="24802" selection-end="24802" vertical-scroll-proportion="0.5494506">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jqueryUI/development-bundle/demos/tabs/vertical.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="51" selection-start="822" selection-end="822" vertical-scroll-proportion="-13.076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urunlerimiz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="1609" selection-end="1609" vertical-scroll-proportion="0.47070706">
+        <state line="109" column="66" selection-start="5229" selection-end="5229" vertical-scroll-proportion="0.58536583">
           <folding />
         </state>
       </provider>
