@@ -37,7 +37,7 @@ nav#menu ul li:hover{ background: gray;}
 #content { min-height: 550px; padding: 20px; background: white url("../images/texture5.png"); }
 #content.chooseUs { background: white url("../images/lightBlack.jpg"); }
 #content.chooseUs #trophyRoom { height: 500px; margin: 0 auto; width: auto;}
-#content.chooseUs #trophyRoom .trophy {  margin: 40px; height: 100px; width: 100px; background: url('../images/logoSpriteBW.png'); float:left;
+#content.chooseUs #trophyRoom .trophy {  margin: 40px; height: 100px; width: 100px; background: url('../images/logoNewSB.png'); float:left;
     -webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease;
 
     /*Transition*/ -webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease;
@@ -46,7 +46,7 @@ nav#menu ul li:hover{ background: gray;}
 }
 
 #content.chooseUs #trophyRoom .trophy:hover {
-    background: url('../images/logoSprite.png');
+    background: url('../images/logoNew.png');
     -webkit-transform: rotate(-7deg);
     -moz-transform: rotate(-7deg);
     -o-transform: rotate(-7deg);
@@ -56,21 +56,21 @@ nav#menu ul li:hover{ background: gray;}
 
 
 }
-#content.chooseUs #trophyRoom .trophy.one { background-position: 0px 0px; }
-#content.chooseUs #trophyRoom .trophy.two { background-position: -93px 0px; }
-#content.chooseUs #trophyRoom .trophy.three { background-position: -190px 0px; }
-#content.chooseUs #trophyRoom .trophy.four { background-position: -295px 0px; }
-#content.chooseUs #trophyRoom .trophy.five { background-position: -398px 0px; }
-#content.chooseUs #trophyRoom .trophy.six { background-position: 0px -123px; }
-#content.chooseUs #trophyRoom .trophy.seven { background-position: -123px -123px; }
-#content.chooseUs #trophyRoom .trophy.eight { background-position: -252px -123px; }
-#content.chooseUs #trophyRoom .trophy.nine { background-position: -390px -123px; }
-#content.chooseUs #trophyRoom .trophy.ten { background-position: 0px -238px; }
-#content.chooseUs #trophyRoom .trophy.eleven { background-position: -123px -238px; }
-#content.chooseUs #trophyRoom .trophy.twelve { background-position: -252px -238px; }
-#content.chooseUs #trophyRoom .trophy.thirteen { background-position: -390px -234px; }
-#content.chooseUs #trophyRoom .trophy.fourteen { background-position: 0px -350px; }
-#content.chooseUs #trophyRoom .trophy.fiveteen { background-position: -123px -350px; }
+#content.chooseUs #trophyRoom .trophy.one { background-position: -7px 0px; }
+#content.chooseUs #trophyRoom .trophy.two { background-position: -140px 0px; }
+#content.chooseUs #trophyRoom .trophy.three { background-position: -264px 0px; }
+#content.chooseUs #trophyRoom .trophy.four { background-position: -384px 0px; }
+#content.chooseUs #trophyRoom .trophy.five { background-position: 0px -96px; }
+#content.chooseUs #trophyRoom .trophy.six { background-position: -142px -103px; }
+#content.chooseUs #trophyRoom .trophy.seven { background-position: -384px -119px; }
+#content.chooseUs #trophyRoom .trophy.eight { background-position: -265px -171px; }
+#content.chooseUs #trophyRoom .trophy.nine { background-position: -7px -214px; }
+#content.chooseUs #trophyRoom .trophy.ten { background-position: -140px -281px; }
+#content.chooseUs #trophyRoom .trophy.eleven { background-position: -297px -279px; }
+#content.chooseUs #trophyRoom .trophy.twelve { background-position: -7px -334px; }
+#content.chooseUs #trophyRoom .trophy.thirteen { background-position: -142px -395px; }
+#content.chooseUs #trophyRoom .trophy.fourteen { background-position: -265px -395px; }
+#content.chooseUs #trophyRoom .trophy.fiveteen { background-position: -384px -397px; }
 
 #content #items {height: 415px;}
 #content #items .item{ float: left; width: 300px;box-shadow: 0 5px 4px 1px black; }

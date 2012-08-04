@@ -29,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="74" selection-start="3481" selection-end="3481" vertical-scroll-proportion="-0.65384614">
+            <state line="87" column="74" selection-start="3481" selection-end="3481" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -44,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="galeri.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/galeri.html">
+      <file leaf-file-name="bizisecenler.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bizisecenler.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="36" selection-start="2498" selection-end="2498" vertical-scroll-proportion="0.6697936">
+            <state line="24" column="66" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
@@ -56,7 +56,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="147" column="58" selection-start="8431" selection-end="8431" vertical-scroll-proportion="0.0">
+            <state line="48" column="45" selection-start="2759" selection-end="3056" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -80,12 +80,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colorbox.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="galeri.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/galeri.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="124" column="24" selection-start="6168" selection-end="6168" vertical-scroll-proportion="-11.769231">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colorbox.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/colorbox/colorbox.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="1" selection-start="3626" selection-end="3626" vertical-scroll-proportion="0.0">
+            <state line="95" column="0" selection-start="4920" selection-end="4920" vertical-scroll-proportion="0.93772894">
               <folding>
-                <marker date="1343694430079" expanded="true" signature="3862:4092" placeholder="{...}" />
+                <marker date="1343952510939" expanded="true" signature="3862:4092" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -109,17 +118,17 @@
         <option value="$PROJECT_DIR$/with-carousel.html" />
         <option value="$PROJECT_DIR$/lib/jquery.pikachoose.js" />
         <option value="$PROJECT_DIR$/css/galerySlider/left.css" />
-        <option value="$PROJECT_DIR$/css/colorbox/colorbox.css" />
         <option value="$PROJECT_DIR$/workshop/index.html" />
         <option value="$PROJECT_DIR$/workshop/try.js" />
-        <option value="$PROJECT_DIR$/bizisecenler.html" />
         <option value="$PROJECT_DIR$/urunlerimiz.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/iletisim.html" />
         <option value="$PROJECT_DIR$/lib/jquery.colorbox-min.js" />
         <option value="$PROJECT_DIR$/css/menu.css" />
+        <option value="$PROJECT_DIR$/bizisecenler.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/galeri.html" />
+        <option value="$PROJECT_DIR$/css/colorbox/colorbox.css" />
       </list>
     </option>
   </component>
@@ -194,20 +203,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="umutdoga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="umutdoga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -219,10 +214,10 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -290,8 +285,9 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2590909" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2719697" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -300,7 +296,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -386,19 +381,24 @@
         <state line="9" column="9" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bizisecenler.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="70" selection-start="2737" selection-end="2737" vertical-scroll-proportion="0.38273922" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/workshop/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.54221386" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="1366" selection-end="1366" vertical-scroll-proportion="0.608229" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery.colorbox-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="53" selection-start="437" selection-end="437" vertical-scroll-proportion="0.3231939" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="74" selection-start="3481" selection-end="3481" vertical-scroll-proportion="-0.65384614">
+        <state line="87" column="74" selection-start="3481" selection-end="3481" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -415,41 +415,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/iletisim.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="51" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.0">
+        <state line="57" column="51" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galeri.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="24" selection-start="6168" selection-end="6168" vertical-scroll-proportion="-11.769231">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/colorbox/colorbox.css">
+    <entry file="file://$PROJECT_DIR$/bizisecenler.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="1" selection-start="3626" selection-end="3626" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.colorbox-min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="3764" selection-start="4148" selection-end="4148" vertical-scroll-proportion="0.31135532">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1366" selection-end="1366" vertical-scroll-proportion="0.608229">
+        <state line="24" column="66" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-7.8461537">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="58" selection-start="8431" selection-end="8431" vertical-scroll-proportion="0.0">
+        <state line="48" column="45" selection-start="2759" selection-end="3056" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/galeri.html">
+    <entry file="file://$PROJECT_DIR$/css/colorbox/colorbox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="36" selection-start="2498" selection-end="2498" vertical-scroll-proportion="0.6697936">
-          <folding />
+        <state line="95" column="0" selection-start="4920" selection-end="4920" vertical-scroll-proportion="0.93772894">
+          <folding>
+            <marker date="1343952510939" expanded="true" signature="3862:4092" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
