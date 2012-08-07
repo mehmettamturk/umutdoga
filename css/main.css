@@ -137,6 +137,39 @@ nav#menu ul li:hover{ background: gray;}
 
 .curly { text-align: center; height: 70px; }
 
+#content.sertifika {text-align: center;}
+#content.sertifika img{
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    margin-right: 40px;
+}
+
+#content.sertifika img:hover {
+    -webkit-transform:scale(1.2, 1.2);
+    -moz-transform:scale(1.2, 1.2);
+    -o-transform:scale(1.2, 1.2);
+    -ms-transform:scale(1.2, 1.2);
+    transform:scale(1.2, 1.2);
+}
+
+
+#content.nedenbiz {  }
+#content.nedenbiz #whyUsList { }
+#content.nedenbiz #whyUsList h4{
+    font-family: 'Lobster', Georgia, Times, serif; font-size: 70px; line-height: 100px;
+    color:  #0C70B0;
+}
+#content.nedenbiz #whyUsList ul {
+    padding-left: 50px;
+    list-style-image: url('../images/arrow.png');
+    font-family: 'Lobster', Georgia, Times, serif; font-size: 20px; line-height: 50px;
+}
+#content.nedenbiz #whyUsList ul li {
+
+}
 
 
 /* FONT-FACE */
