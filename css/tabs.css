@@ -332,7 +332,7 @@ div.demo-description {
 #widget-docs .ui-widget-content a:hover,
 #widget-docs .ui-widget-content a:active { color:#0b559b; }
 
-#tabs .items { height: 570px; text-align: center; width: 877px; }
+#tabs .items { height: 260px; text-align: center; width: 877px; }
 #tabs .items .tabItem { width: 175px; height: 260px; float: left;  }
 #tabs .items .tabItem .itemImg {}
 #tabs .items .tabItem .itemName { font-size: 18px; color: #1b75bb;margin-top: 10px; }

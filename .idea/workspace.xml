@@ -29,16 +29,34 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="162" column="20" selection-start="8833" selection-end="8833" vertical-scroll-proportion="0.0">
+            <state line="160" column="32" selection-start="8705" selection-end="8705" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nedenbiz.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nedenbiz.html">
+      <file leaf-file-name="tabs.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/tabs.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="40" selection-start="2418" selection-end="2418" vertical-scroll-proportion="0.6697936">
+            <state line="334" column="26" selection-start="14364" selection-end="14364" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="85" column="83" selection-start="3283" selection-end="3283" vertical-scroll-proportion="0.3923077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urunlerimiz.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/urunlerimiz.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="178" column="26" selection-start="10174" selection-end="10174" vertical-scroll-proportion="-17.384615">
               <folding />
             </state>
           </provider>
@@ -57,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/with-carousel.html" />
         <option value="$PROJECT_DIR$/lib/jquery.pikachoose.js" />
         <option value="$PROJECT_DIR$/css/galerySlider/left.css" />
         <option value="$PROJECT_DIR$/workshop/index.html" />
@@ -68,11 +85,12 @@
         <option value="$PROJECT_DIR$/bizisecenler.html" />
         <option value="$PROJECT_DIR$/galeri.html" />
         <option value="$PROJECT_DIR$/iletisim.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sertifikalar.html" />
-        <option value="$PROJECT_DIR$/urunlerimiz.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/nedenbiz.html" />
+        <option value="$PROJECT_DIR$/urunlerimiz.html" />
+        <option value="$PROJECT_DIR$/css/tabs.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -109,16 +127,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -151,6 +159,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="umutdoga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="umutdoga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ParallaxContentSlider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="umutdoga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="umutdoga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -160,8 +210,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -230,7 +280,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19242424" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19545455" sideWeight="0.99630994" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -300,21 +350,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/GalerySlider/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="388" selection-end="555" vertical-scroll-proportion="0.26153848" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/scrol/tkahn-Smooth-Div-Scroll-a3c651d/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="12" selection-start="2746" selection-end="2829" vertical-scroll-proportion="0.76547843" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/workshop/try.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/workshop/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.54221386" />
@@ -337,65 +372,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/colorbox/colorbox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="0" selection-start="4599" selection-end="4599" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1343952510939" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
+        <state line="85" column="0" selection-start="4599" selection-end="4599" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/galeri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="72" selection-start="3375" selection-end="3375" vertical-scroll-proportion="-3.5">
-          <folding />
-        </state>
+        <state line="84" column="72" selection-start="3375" selection-end="3375" vertical-scroll-proportion="-3.5" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/iletisim.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="72" selection-start="3446" selection-end="3446" vertical-scroll-proportion="-15.038462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="76" selection-start="3418" selection-end="3418" vertical-scroll-proportion="-9.807693">
-          <folding />
-        </state>
+        <state line="82" column="72" selection-start="3446" selection-end="3446" vertical-scroll-proportion="-15.038462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sertifikalar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="72" selection-start="2006" selection-end="2006" vertical-scroll-proportion="-10.038462">
+        <state line="51" column="72" selection-start="2006" selection-end="2006" vertical-scroll-proportion="-10.038462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bizisecenler.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="25" selection-start="1587" selection-end="1587" vertical-scroll-proportion="-9.807693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nedenbiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="40" selection-start="2418" selection-end="2418" vertical-scroll-proportion="0.031894933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/preview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/urunlerimiz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="72" selection-start="3066" selection-end="3066" vertical-scroll-proportion="-7.8461537">
+        <state line="178" column="26" selection-start="10174" selection-end="10174" vertical-scroll-proportion="-17.384615">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bizisecenler.html">
+    <entry file="file://$PROJECT_DIR$/css/tabs.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="25" selection-start="1587" selection-end="1587" vertical-scroll-proportion="-9.807693">
+        <state line="334" column="26" selection-start="14364" selection-end="14364" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ParallaxContentSlider/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="19" selection-start="1024" selection-end="1024" vertical-scroll-proportion="-1.4192308">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="20" selection-start="8833" selection-end="8833" vertical-scroll-proportion="0.0">
+        <state line="160" column="32" selection-start="8705" selection-end="8705" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nedenbiz.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="40" selection-start="2418" selection-end="2418" vertical-scroll-proportion="0.6697936">
+        <state line="85" column="83" selection-start="3283" selection-end="3283" vertical-scroll-proportion="0.3923077">
           <folding />
         </state>
       </provider>

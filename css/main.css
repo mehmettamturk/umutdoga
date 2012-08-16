@@ -34,7 +34,7 @@ nav#menu ul li:hover{ background: gray;}
 
 #slider { box-shadow: 0 14px 4px -9px #c6e0ff; }
 
-#content { min-height: 550px; padding: 20px; background: white url("../images/texture5.png"); }
+#content { padding: 20px; background: white url("../images/texture5.png"); }
 #content.chooseUs { background: white url("../images/lightBlack.jpg"); }
 #content.chooseUs #trophyRoom { height: 500px; margin: 0 auto; width: auto;}
 #content.chooseUs #trophyRoom .trophy {  margin: 40px; height: 100px; width: 100px; background: url('../images/logoNewSB.png'); float:left;
@@ -170,6 +170,9 @@ nav#menu ul li:hover{ background: gray;}
 #content.nedenbiz #whyUsList ul li {
 
 }
+
+#tabs-1 #tab1 { height: 1040px;}
+#tabs-2 #tab2 { height: 260px;}
 
 
 /* FONT-FACE */
