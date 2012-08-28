@@ -78,6 +78,10 @@
     height: 120px;
     width: 140px;
     margin: 0px 0px 20px 35px;
+    border: 2px solid black;
+    border-radius: 50px;
+    box-shadow: 0 0 2px 1px #0C70B0;
+
 
     -webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease;
 
@@ -85,6 +89,11 @@
     /*Reflection*/ -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
 
 }
+
+.cboxElement img {
+    border-radius: 48px;
+}
+
 .cboxElement:hover {
 
     -webkit-transform: rotate(-7deg);

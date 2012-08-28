@@ -29,7 +29,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="160" column="32" selection-start="8705" selection-end="8705" vertical-scroll-proportion="0.0">
+            <state line="163" column="19" selection-start="8861" selection-end="8867" vertical-scroll-proportion="-14.4">
               <folding />
             </state>
           </provider>
@@ -44,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="7" selection-start="6718" selection-end="6718" vertical-scroll-proportion="-16.076923">
+            <state line="77" column="80" selection-start="3297" selection-end="3297" vertical-scroll-proportion="0.29423076">
               <folding />
             </state>
           </provider>
@@ -56,7 +56,7 @@
       <file leaf-file-name="bizisecenler.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bizisecenler.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="25" selection-start="1587" selection-end="1587" vertical-scroll-proportion="1.7307693">
+            <state line="41" column="25" selection-start="1587" selection-end="1587" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,7 +65,7 @@
       <file leaf-file-name="galeri.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/galeri.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="2158" selection-end="2158" vertical-scroll-proportion="-14.769231">
+            <state line="53" column="0" selection-start="2158" selection-end="2158" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -74,7 +74,7 @@
       <file leaf-file-name="iletisim.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iletisim.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="72" selection-start="3446" selection-end="3446" vertical-scroll-proportion="-44.192307">
+            <state line="82" column="72" selection-start="3446" selection-end="3446" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -83,7 +83,7 @@
       <file leaf-file-name="nedenbiz.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nedenbiz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="1247" selection-end="1247" vertical-scroll-proportion="21.346153">
+            <state line="28" column="0" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -92,16 +92,16 @@
       <file leaf-file-name="sertifikalar.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sertifikalar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="1113" selection-end="1113" vertical-scroll-proportion="11.538462">
+            <state line="25" column="0" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urunlerimiz.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="urunlerimiz.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/urunlerimiz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="162" column="74" selection-start="9419" selection-end="9419" vertical-scroll-proportion="0.29831144">
+            <state line="67" column="70" selection-start="2731" selection-end="2731" vertical-scroll-proportion="-2.0263157">
               <folding />
             </state>
           </provider>
@@ -126,16 +126,16 @@
         <option value="$PROJECT_DIR$/workshop/try.js" />
         <option value="$PROJECT_DIR$/lib/jquery.colorbox-min.js" />
         <option value="$PROJECT_DIR$/css/menu.css" />
-        <option value="$PROJECT_DIR$/css/colorbox/colorbox.css" />
         <option value="$PROJECT_DIR$/bizisecenler.html" />
         <option value="$PROJECT_DIR$/iletisim.html" />
         <option value="$PROJECT_DIR$/css/tabs.css" />
-        <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/galeri.html" />
         <option value="$PROJECT_DIR$/nedenbiz.html" />
         <option value="$PROJECT_DIR$/sertifikalar.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/urunlerimiz.html" />
+        <option value="$PROJECT_DIR$/css/colorbox/colorbox.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -200,6 +200,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="umutdoga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="umutdoga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="umutdoga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="umutdoga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="colorbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -209,8 +241,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -272,14 +304,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19848485" sideWeight="0.99630994" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20151515" sideWeight="0.99630994" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -359,19 +391,9 @@
         <state line="12" column="53" selection-start="437" selection-end="437" vertical-scroll-proportion="0.3231939" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/colorbox/colorbox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="0" selection-start="4599" selection-end="4599" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/preview.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="4" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="160" column="32" selection-start="8705" selection-end="8705" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/tabs.css">
@@ -379,51 +401,67 @@
         <state line="334" column="26" selection-start="14364" selection-end="14364" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="7" selection-start="6718" selection-end="6718" vertical-scroll-proportion="-16.076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bizisecenler.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="25" selection-start="1587" selection-end="1587" vertical-scroll-proportion="1.7307693">
+        <state line="41" column="25" selection-start="1587" selection-end="1587" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/galeri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="2158" selection-end="2158" vertical-scroll-proportion="-14.769231">
+        <state line="53" column="0" selection-start="2158" selection-end="2158" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/iletisim.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="72" selection-start="3446" selection-end="3446" vertical-scroll-proportion="-44.192307">
+        <state line="82" column="72" selection-start="3446" selection-end="3446" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nedenbiz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="1247" selection-end="1247" vertical-scroll-proportion="21.346153">
+        <state line="28" column="0" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sertifikalar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="1113" selection-end="1113" vertical-scroll-proportion="11.538462">
+        <state line="25" column="0" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="163" column="19" selection-start="8861" selection-end="8867" vertical-scroll-proportion="-14.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/colorbox/colorbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="23" selection-start="4737" selection-end="4737" vertical-scroll-proportion="0.8060837">
+          <folding>
+            <marker date="1346185375690" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/urunlerimiz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="74" selection-start="9419" selection-end="9419" vertical-scroll-proportion="0.29831144">
+        <state line="67" column="70" selection-start="2731" selection-end="2731" vertical-scroll-proportion="-2.0263157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="80" selection-start="3297" selection-end="3297" vertical-scroll-proportion="0.29423076">
           <folding />
         </state>
       </provider>

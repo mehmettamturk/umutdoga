@@ -155,6 +155,7 @@ nav#menu ul li:hover{ background: gray;}
     transform:scale(1.2, 1.2);
 }
 
+#bigPhoto { border: 5px solid black; height: 380px; }
 
 #content.nedenbiz {  }
 #content.nedenbiz #whyUsList { }
